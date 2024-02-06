@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on project envolve Typescript, React, NodeJs, Docker, Postgres and Prisma
 - 🌱 I’m currently learning about Clean Code, Clean Architecture, CI/CD, kubernets, Docker, AWS and Kafka
 
 ##
